@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		707C797224761E4D0082D6BA /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 707C797124761E4D0082D6BA /* DefinitionViewController.swift */; };
 		70FA2A94246F0B0500559E3B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70FA2A93246F0B0500559E3B /* AppDelegate.swift */; };
 		70FA2A96246F0B0500559E3B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70FA2A95246F0B0500559E3B /* SceneDelegate.swift */; };
 		70FA2A98246F0B0500559E3B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70FA2A97246F0B0500559E3B /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		707C797124761E4D0082D6BA /* DefinitionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
 		70FA2A90246F0B0500559E3B /* emoji.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = emoji.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		70FA2A93246F0B0500559E3B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		70FA2A95246F0B0500559E3B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				70FA2A93246F0B0500559E3B /* AppDelegate.swift */,
 				70FA2A95246F0B0500559E3B /* SceneDelegate.swift */,
 				70FA2A97246F0B0500559E3B /* ViewController.swift */,
+				707C797124761E4D0082D6BA /* DefinitionViewController.swift */,
 				70FA2A99246F0B0500559E3B /* Main.storyboard */,
 				70FA2A9C246F0B0800559E3B /* Assets.xcassets */,
 				70FA2A9E246F0B0800559E3B /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				70FA2A98246F0B0500559E3B /* ViewController.swift in Sources */,
+				707C797224761E4D0082D6BA /* DefinitionViewController.swift in Sources */,
 				70FA2A94246F0B0500559E3B /* AppDelegate.swift in Sources */,
 				70FA2A96246F0B0500559E3B /* SceneDelegate.swift in Sources */,
 			);
